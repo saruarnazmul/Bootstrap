@@ -1,0 +1,16 @@
+div{
+	margin-bottom: 10px;
+}
+.col-6, .col-4, .col-12, .col-8, blockquote{
+	border: 1px solid red;
+}
+.container{
+
+}
+.align-items-start, .align-items-center, .align-items-end{
+	background-color: pink;
+	height: 100px;
+}
+.progress {
+	height: 50px;
+}
